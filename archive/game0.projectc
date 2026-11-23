@@ -31,7 +31,7 @@ clear_color_blue = 0.09
 clear_color_alpha = 1
 
 [physics]
-max_collision_object_count = 128
+max_collision_object_count = 512
 type = 2D
 use_fixed_timestep = 0
 debug = 0
